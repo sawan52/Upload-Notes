@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Upload Notes</string>
+    <string name="select_file_to_upload">Select File to Upload</string>
+    <string name="enter_file_to_be_saved">Enter File Name to be saved</string>
+    <string name="no_file_is_selected">No File is selected</string>
+    <string name="upload">Upload Files</string>
+</resources>
